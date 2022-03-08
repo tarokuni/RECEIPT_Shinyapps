@@ -1,4 +1,5 @@
 # RECEIPT_Shinyapps
-Shiny apps created for the RECEIPT project (https://climatestorylines.eu/)
+Source files for the shiny apps created for the RECEIPT project (https://climatestorylines.eu/)
 
-Shows interactive Bayesian networks for the storylines constructed in the project.
+The apps show interactive Bayesian networks for the storylines constructed in the project.
+Links will be added here when available for the public.
